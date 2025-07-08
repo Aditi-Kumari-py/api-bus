@@ -1,3 +1,6 @@
 fastapi
 uvicorn
-pydantic
+pymongo
+bcrypt
+python-jose[cryptography]
+python-multipart
